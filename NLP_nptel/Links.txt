@@ -1,0 +1,19 @@
+https://towardsdatascience.com/nlp-text-similarity-how-it-works-and-the-math-behind-it-a0fb90a05095
+
+https://web.stanford.edu/~jurafsky/slp3/
+
+http://www.cs.cornell.edu/courses/cs2800/2014fa/lnotes/24_more_regexps.pdf
+
+https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1
+https://www.enjoyalgorithms.com/blog/word-vector-encoding-in-nlp
+
+https://www.researchgate.net/publication/357430807_NLP_IV_Text_Vectorization
+
+https://link.springer.com/article/10.1007/s11192-020-03502-9
+
+https://livebook.manning.com/book/real-world-natural-language-processing/chapter-1/v-2/6
+
+MSML workshop
+https://icerm.brown.edu/topical_workshops/tw-23-msml/
+
+https://towardsdatascience.com/nlp-text-similarity-how-it-works-and-the-math-behind-it-a0fb90a05095
